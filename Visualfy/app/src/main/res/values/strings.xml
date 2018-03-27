@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Visualfy</string>
+    <string name="primaryKey">ea4760c449d74551ad1923c5b8da48f5</string>
+    <string name="luisAppID">yourLuisAppID</string>
+    <string name="luisSubscriptionID">yourLuisSubscriptionID</string>
+    <string name="authenticationUri"></string>
+    <string name="api_key">ea4760c449d74551ad1923c5b8da48f5</string>
+    <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+    <string name="add_subscription_key_tip">Please put your subscription key to source file \"app/res/values/strings.xml\" to enable Speech API calls.</string>
+</resources>

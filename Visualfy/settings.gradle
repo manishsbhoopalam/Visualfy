@@ -1,0 +1,1 @@
+include ':app', ':speechsdk', ':SpeechSDK1', ':speechsdk1'
